@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test --allow-importing-ts-extensions"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joecooper1/powwr-tech-test.git"
