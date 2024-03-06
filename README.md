@@ -17,12 +17,12 @@ To run the automated tests, follow these steps:
 
 1. **Clone the repository** to your local machine:
    ```
-   git clone <repository_url>
+   git clone https://github.com/joecooper1/powwr-tech-test.git
    ```
 
 2. **Navigate to the project directory**:
    ```
-   cd powwr-tech-test
+   cd tech-test
    ```
 
 3. **Install project dependencies**:
